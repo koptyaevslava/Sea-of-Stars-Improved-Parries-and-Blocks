@@ -26,8 +26,6 @@ Keep `ParriesAndBlocksInstaller.exe` and the matching `.pbpkg` file in the same 
 
 The installer writes only to `BepInEx/plugins/GenerousBlock`. It does not bundle BepInEx, game files, or any other mod. Removing the mod preserves its BepInEx configuration file.
 
-For Nexus Mods, use the dedicated manual-install ZIP. It contains no executable and no nested archive.
-
 ## Build from source
 
 See [Building](docs/BUILDING.md). The repository intentionally excludes game binaries, generated interop assemblies, build output, and release payloads.
