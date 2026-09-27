@@ -13,6 +13,22 @@ Sea of Stars Improved Parries and Blocks adds configurable bounded hold assistan
 - Battle counter that stops visually at the configured threshold and pulses when extended hold is available
 - Coverage for Moonrang, Soonrang, Limbo, Arcane Barrage, Resh'an's multi-flask attack, Venom Flurry, Leap Frog, Trapeze, and Jugglenaut
 
+## Screenshots
+
+### In-game settings
+
+![Parries and Blocks settings](docs/screenshots/settings.png)
+
+### Battle counter
+
+![Battle counter before reaching the configured threshold](docs/screenshots/combo-counter-progress.png)
+
+![Battle counter after reaching the configured threshold](docs/screenshots/combo-counter-ready.jpg)
+
+| Building the combo | Extended hold available |
+| --- | --- |
+| ![White combo counter](docs/screenshots/combo-counter-progress-closeup.png) | ![Gold combo counter](docs/screenshots/combo-counter-ready-closeup.png) |
+
 ## Requirements
 
 - Sea of Stars for Windows
@@ -42,4 +58,4 @@ Project documentation, comments, identifiers, logs, and build output are written
 
 ## License
 
-Official releases may be downloaded and used only for personal, non-commercial use. Redistribution, re-uploading, sale, monetization, sublicensing, and derivative works are prohibited without prior written permission. See [LICENSE](LICENSE) for the complete terms. Sea of Stars and all game materials remain the property of their respective rights holders.
+The project may be used, inspected, forked, and modified solely for personal, non-commercial purposes. Commercial use, sale, monetization, repackaging, and inclusion in third-party mod packs or software bundles are prohibited. See [LICENSE](LICENSE) for the complete terms. Sea of Stars and all game materials remain the property of their respective rights holders.
