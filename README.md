@@ -42,4 +42,4 @@ Project documentation, comments, identifiers, logs, and build output are written
 
 ## License
 
-Source code is available under the MIT License. Sea of Stars and its assets are owned by their respective rights holders.
+Official releases may be downloaded and used only for personal, non-commercial use. Redistribution, re-uploading, sale, monetization, sublicensing, and derivative works are prohibited without prior written permission. See [LICENSE](LICENSE) for the complete terms. Sea of Stars and all game materials remain the property of their respective rights holders.
