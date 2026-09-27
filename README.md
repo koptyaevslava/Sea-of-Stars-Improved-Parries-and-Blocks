@@ -1,6 +1,6 @@
-# Sea of Stars Parries and Blocks
+# Sea of Stars Improved Parries and Blocks
 
-Parries and Blocks adds configurable bounded hold assistance for timed blocks, timed bonus attacks, and repeating timed-input special attacks in the Windows version of Sea of Stars.
+Sea of Stars Improved Parries and Blocks adds configurable bounded hold assistance for timed blocks, timed bonus attacks, and repeating timed-input special attacks in the Windows version of Sea of Stars.
 
 ## Features
 
